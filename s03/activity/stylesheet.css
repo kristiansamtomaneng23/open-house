@@ -1,0 +1,116 @@
+*{
+	font-family: "Oswald", monospace;
+    font-size: large;
+    color: rgb(6, 21, 228);
+
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+div{
+    text-align: center;
+}
+
+nav{
+    padding: 16px;
+    margin-bottom: 4px;
+    background-color: rgb(178, 7, 201);
+    text-align: center;
+}
+
+
+a{
+	text-decoration: none;
+    color: azure;
+}
+
+.nav-link{
+    margin-left: 5px;
+    margin-right: 5px; 
+}
+
+#profile{
+    width: 80%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#profilePic{
+    display: block;
+    margin: 0px auto 0px auto;
+    height: 300px;
+	width: 300px;
+	border-radius: 150px;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+#name{
+	margin-top: auto;
+    margin-bottom: auto;
+}
+
+#title{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#intro{
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center; 
+    padding: 0 20px;
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+
+#tools{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#tools-title{
+    margin-bottom: 5px;
+    font-size: 30px
+}
+
+.tools-img{
+    height: 100px;
+    width: 100px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#projects{
+    align-content: center;
+}
+
+.project{
+    font-size: 30px;
+}
+
+.card{
+    background: rgb(178, 7, 201);
+    height: 400px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-img{
+    height: 300px;
+    width: 300px;
+}
+
+#contact{
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 4px;
+    background: rgb(178, 7, 201);
+}
